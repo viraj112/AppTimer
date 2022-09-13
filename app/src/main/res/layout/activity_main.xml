@@ -5,10 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="@color/purple_700">
+   android:background="@color/white">
 
-    <Button
-        android:id="@+id/txt_main"
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_main"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text=" Actvity"
